@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HasRemovalPasscode</key>
+	<false/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>IgnoreManifestScope</key>
+			<false/>
+			<key>IsRemovable</key>
+			<false/>
+			<key>Label</key>
+			<string>彩虹多多</string>
+			<key>PayloadDescription</key>
+			<string>配置 Web Clip 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Web Clip</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.CD4E097E-68A4-4C81-9A75-326BBDC4EFFD</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>CD4E097E-68A4-4C81-9A75-326BBDC4EFFD</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string>https://m.douban.com/home_guide</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>彩虹多多</string>
+	<key>PayloadIdentifier</key>
+	<string>15.0001C7F4-A387-4DE7-A153-972D8974AD3E</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>201B8DFA-9431-4611-8D8B-19F3A16FD071</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
